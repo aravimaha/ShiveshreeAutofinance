@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "home.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,14 +22,14 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5,
+    "uniqCompNum": 8,
     "versionPublish": "3.12.1"
   },
   "pages": {
-    "index.html": {
+    "home.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "ShivashreeAutofinance",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -79,7 +79,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#fac51c!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
